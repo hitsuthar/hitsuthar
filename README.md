@@ -1,6 +1,5 @@
 ## Hi there 👋
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=506380" style='border:none;'></iframe>
-[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=506380)]
+![tryhackme stats](https://raw.githubusercontent.com/hitsuthar/hitsuthar/master/assets/thm_propic.png)
 
 
 <!--
