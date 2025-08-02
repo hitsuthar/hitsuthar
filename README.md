@@ -1,5 +1,4 @@
 ## Hi there 👋
-![tryhackme stats](https://raw.githubusercontent.com/hitsuthar/hitsuthar/master/assets/thm_propic.png)
 
 
 <!--
