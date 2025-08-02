@@ -1,5 +1,7 @@
 ## Hi there 👋
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=506380" style='border:none;'></iframe>
+[![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=506380)]
+
 
 <!--
 **hitsuthar/hitsuthar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
